@@ -358,4 +358,6 @@ MongoDB provides two APIs to use transactions.
 
 ---
 
+![](readmeImage/CheatSheat.jpg)
+
 For More Information: [Link](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)https://www.mongodb.com/developer/products/mongodb/cheat-sheet/
